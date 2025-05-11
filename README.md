@@ -12,12 +12,65 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Helene+Brandt!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### A front-end focused developer passionate about creating beautiful, intuitive, and user-friendly digital experiences.
+
 
 I'm currently studying Applied Computer Technology at OsloMet. I have experience with Java, JavaScript, and front-end development, 
 and I’m especially passionate about UX and design—it feels more like a hobby than a job! 🎨
 
 Lately, I’ve been exploring testing and typewriting, while learning Python. I'm also interested in IoT and love experimenting with Arduino. Always curious, always building. 🚀
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Helene+Brandt!;" />
+</h1>
+
+### A front-end focused developer passionate about creating beautiful, intuitive, and user-friendly digital experiences.
+
+I'm currently studying Applied Computer Technology at OsloMet. I have experience with Java, JavaScript, and front-end development, and I’m especially passionate about UX and design—it feels more like a hobby than a job! 🎨
+
+Lately, I’ve been diving into testing, TypeScript, React and learning Python. I'm also interested in IoT and enjoy working with Arduino and real-time data. Always curious, always building. 🚀
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Java, JavaScript, Python (learning)
+- **Frontend**: HTML, CSS, React, Figma
+- **Backend**: Node.js (basic), Express
+- **Other Tools**: Git, VS Code, Arduino, REST APIs, Testing frameworks
+
+---
+
+### 💡 Projects
+- **🌤️ Weather App** – A front-end weather application that displays real-time weather data with a clean, user-friendly UI.
+- **🌡️ IoT Temperature Monitor** – An Arduino project that reads and displays real-time room temperature.
+
+
+---
+
+### 🌱 I’m currently learning Python and React. 
+### 💬 Ask me about **Java, UX/UI, or Arduino-related stuff!**
+
+<br>
+
+<div align="center">
+  <a href="mailto:helenebrandtzag@outlook.com">
+    <img src="https://store-images.s-microsoft.com/image/apps.30616.14374512070697751.fcbc53c2-4843-4c59-aa6a-206ec85835b5.915cc067-8e3d-468b-bc6b-37c7c8d35d93" />
+  </a>
+  <a href="https://linkedin.com/in/helenebrandt" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@helenebrandt" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/helenebrandt" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+</div>
+
+---
+
+_This README is a snapshot of my journey—always learning, always iterating 💡_
 
 <!--
 **HeleneBrandt/HeleneBrandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
