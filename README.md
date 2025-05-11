@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/{HeleneBrandt}/count.svg" alt="Visitor's Count" />
 </div>
 
-
+<img src="https://github.com/HeleneBrandt/HeleneBrandt/blob/main/helene%20(1).pngg" alt="Banner of my name">
 <!--
 **HeleneBrandt/HeleneBrandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
