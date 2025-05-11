@@ -1,10 +1,13 @@
 ## Hi there 👋
+<div align="center">
+<img src="helene (1).png" alt="Banner of my name">
+</div>
+
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{HeleneBrandt}/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="helene (1).png" alt="Banner of my name">
 <!--
 **HeleneBrandt/HeleneBrandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
