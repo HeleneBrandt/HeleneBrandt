@@ -39,15 +39,13 @@ Lately, I’ve been diving into testing, TypeScript, React and learning Python. 
 ### 💬 Ask me about **Java, UX/UI, or Arduino-related stuff!**
 
 <br>
-
 <div align="center">
   <a href="mailto:helenebrandtzag@outlook.com">
-    <img src="https://store-images.s-microsoft.com/image/apps.30616.14374512070697751.fcbc53c2-4843-4c59-aa6a-206ec85835b5.915cc067-8e3d-468b-bc6b-37c7c8d35d93" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/helene-rebekka-brandtz%C3%A6g-7b470a112/?originalSubdomain=no" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- 
 </div>
 
 ---
