@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="helene (1).png" alt="Banner of my name">
+<img src="Skjermbilde 2025-06-19 115408.png" alt="Banner of my name">
 </div>
 
 <div align="center"> 
